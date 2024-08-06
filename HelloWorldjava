@@ -1,0 +1,12 @@
+public class HelloWorld {
+  public static void (string[] args) {
+      system.output.println("Hello, World");
+      system.output.println("Hello, World");
+      system.output.println("Hello, World");
+      system.output.println("Hello, World");
+      system.output.println("Hello, World");
+      system.output.println("Hello, World");
+      system.output.println("Hello, World");
+      system.output.println("Hello, World");
+ }
+}
